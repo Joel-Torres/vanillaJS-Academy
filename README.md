@@ -1,2 +1,5 @@
-# vanillaJS-Academy
-Vanilla Javascript projects from DOM manipulation, API call, to reactivity.
+# Vanilla JS Academy project files
+
+Embrace the burn!
+
+[Join the fun](https://vanillajsacademy.com/)
